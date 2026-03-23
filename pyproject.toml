@@ -10,4 +10,5 @@ dependencies = [
     "matplotlib>=3.10.8",
     "numpy>=2.4.3",
     "pillow>=12.1.1",
+    "pydicom>=3.0.2",
 ]
